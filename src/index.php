@@ -12,7 +12,7 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body>
+    <body bgcolor="green">
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
